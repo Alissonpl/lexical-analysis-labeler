@@ -1,0 +1,44 @@
+Posição linha 0: classe definição de função, lexema calcularSoma
+Posição linha 0: classe separador, lexema {
+Posição linha 0: classe identificador, lexema valor1
+Posição linha 1: classe separador, lexema ;
+Posição linha 1: classe identificador, lexema  valor3;
+Posição linha 3: classe atribuição, lexema =
+Posição linha 3: classe operação matematica, lexema +
+Posição linha 3: classe separador, lexema ;
+Posição linha 5: classe separador, lexema ;
+Posição linha 5: classe identificador, lexema  valor3;
+Posição linha 8: classe atribuição, lexema =
+Posição linha 8: classe separador, lexema ;
+Posição linha 10: classe definição de função, lexema greaterThanOne
+Posição linha 10: classe separador, lexema {
+Posição linha 10: classe identificador, lexema resultado
+Posição linha 11: classe atribuição, lexema =
+Posição linha 11: classe operação matematica, lexema +
+Posição linha 11: classe separador, lexema ;
+Posição linha 11: classe separador, lexema {
+Posição linha 11: classe controle de repetição, lexema for
+Posição linha 11: classe identificador, lexema  resultado
+Posição linha 12: classe separador, lexema {
+Posição linha 12: classe controle de condicional, lexema if
+Posição linha 12: classe identificador, lexema x > 1
+Posição linha 13: classe separador, lexema ;
+Posição linha 13: classe identificador, lexema  resultado;
+Posição linha 18: classe definição de função, lexema lessThanOne
+Posição linha 18: classe separador, lexema {
+Posição linha 18: classe identificador, lexema resultado
+Posição linha 19: classe atribuição, lexema =
+Posição linha 19: classe operação matematica, lexema +
+Posição linha 19: classe separador, lexema ;
+Posição linha 19: classe separador, lexema {
+Posição linha 19: classe controle de repetição, lexema for
+Posição linha 19: classe identificador, lexema  resultado
+Posição linha 20: classe separador, lexema {
+Posição linha 20: classe controle de condicional, lexema if
+Posição linha 20: classe identificador, lexema x 
+Posição linha 21: classe separador, lexema ;
+Posição linha 21: classe identificador, lexema  resultado;
+Posição linha 26: classe separador, lexema ;
+Posição linha 26: classe identificador, lexema resultado
+Posição linha 27: classe separador, lexema ;
+Posição linha 27: classe identificador, lexema resultado
